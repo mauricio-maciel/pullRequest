@@ -1,3 +1,4 @@
+#ignorar mis archivos
 password.txt
 
 
